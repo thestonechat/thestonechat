@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/lua/lua.svg" width="100">
   <img src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" width="100">
   <br>
-  ![](https://komarev.com/ghpvc/?username=Stonechat)
+  ![](https://komarev.com/ghpvc/?username=ignStonechat)
   <br>
 </p>
 <div align="center">
